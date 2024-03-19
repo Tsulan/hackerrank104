@@ -4,18 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9508442-4b4a-46e8-b629-c10d2d9e2d9b" name="Changes" comment="" />
+    <list default="true" id="c9508442-4b4a-46e8-b629-c10d2d9e2d9b" name="Changes" comment="Commit #2">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hackerrank/basic/MiniMaxSum/Problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hackerrank/basic/MiniMaxSum/Problem.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hackerrank/basic/MiniMaxSum/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hackerrank/basic/MiniMaxSum/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hackerrank/basic/MiniMaxSum/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hackerrank/basic/MiniMaxSum/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hackerrank/basic/PlusMinus/Problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hackerrank/basic/PlusMinus/Problem.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hackerrank/basic/PlusMinus/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hackerrank/basic/PlusMinus/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hackerrank/basic/PlusMinus/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hackerrank/basic/PlusMinus/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hackerrank/basic/TimeConversion/Problem.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hackerrank/basic/TimeConversion/Problem.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hackerrank/basic/TimeConversion/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hackerrank/basic/TimeConversion/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hackerrank/basic/TimeConversion/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hackerrank/basic/TimeConversion/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hackerrank/basic/MiniMaxSum/MiniMaxSumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hackerrank/basic/MiniMaxSum/MiniMaxSumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hackerrank/basic/PlusMinus/PlusMinusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hackerrank/basic/PlusMinus/PlusMinusTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hackerrank/basic/TimeConversion/TimeConversionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/hackerrank/basic/TimeConversion/TimeConversionTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="workspaceImportEnabled" value="true" />
-      </MavenImportingSettings>
-    </option>
+  <component name="Git.Settings">
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectId" id="2d8LOQqzR11WTTIekSWZkxL2X7P" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -26,7 +38,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -39,5 +53,20 @@
       <updated>1709384729118</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit #2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit #2" />
   </component>
 </project>
